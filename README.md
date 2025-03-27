@@ -41,7 +41,7 @@ A beautiful and responsive personal portfolio links page that showcases all your
 
 MIT License
 
-Copyright (c) 2024 [!Kunal Sharma](https://github.com/iamkunal9) & [!Abhay Choudhary](https://github.com/abhaychoudhary0211)
+Copyright (c) 2024 [Kunal Sharma](https://github.com/iamkunal9) & [Abhay Choudhary](https://github.com/abhaychoudhary0211)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
